@@ -1,0 +1,52 @@
+header{
+    background-color: rgba(206, 224, 218, 0.425) !important;
+}
+
+
+
+button{
+    margin-top: 10px;
+}
+.winner{
+    color: rgba(43, 43, 97, 0.795);
+}
+.card-title{
+    
+    color: rgba(12, 12, 20, 0.856);
+}
+ p{
+    color: black;
+    font-weight: normal;
+}
+h6{
+    color: black;
+}
+.btn-colour-change{
+    background-color:#28835cdc;
+    color: white;
+    text-transform: uppercase;
+    padding: 5px;
+}
+
+.penguin-card{
+    border: 0px;
+    border-radius: 15px
+}
+.penguin-card-footer{
+    background-color: white;
+    border: 0px;
+    
+}
+
+.customize-img{
+    background-color: rgba(233, 232, 232, 0.596);
+    border-radius: 25px;
+    height: 300px;
+}
+
+footer li {
+ list-style: none;
+}
+footer li a{
+    text-decoration: none;
+}
